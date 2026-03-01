@@ -1,3 +1,5 @@
 hello testing for main branch conflict
+hello testing for merge conflict
+resolved conflict
 test for diff
 new branch test
