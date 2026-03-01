@@ -22,9 +22,9 @@ git push -u origin main
 ```
 
 ## 📁 Files
-- `samplefile.txt` — used to demonstrate all Git operations
+- `sampleetext.txt` — used to demonstrate all Git operations
 
 ## 🌿 Branches
 - `main` — final merged version
-- `feature-update` — added a new line
-- `conflict-branch` — used to resolve a merge conflict
+- `secondary` — added a new line
+- `merge-conflict` — used to resolve a merge conflict
